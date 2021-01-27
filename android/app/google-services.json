@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "246910278999",
+    "project_id": "herwego-adfdc",
+    "storage_bucket": "herwego-adfdc.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:246910278999:android:707efbe2e0b9e76dc77212",
+        "android_client_info": {
+          "package_name": "com.pdp.herwego"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "246910278999-scankkquio35fc7vd4ickq67lsntnjum.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCs6xbXeG2on3kzQNVeddJdzKsZwUSSwC4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "246910278999-scankkquio35fc7vd4ickq67lsntnjum.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
